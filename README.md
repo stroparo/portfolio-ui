@@ -1,10 +1,10 @@
 ![GoStack](https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png)
 
-# Projects UI GoStack 12 sample
+# Portfolio UI
 
-This project implements a UI with ReactJS to exhibit portfolio repositories information provided by [the portfolio API](https://github.com/stroparo/gostack-sample-projects-api).
+This project implements a UI to exhibit portfolio repositories information provided by [the portfolio API](https://github.com/stroparo/gostack-sample-projects-api).
 
-This also solves the ReactJS challange in level 1 of the GoStack 12th edition by [Rocketseat](https://rocketseat.com.br/), a major software development bootcamp in Brazil.
+This also solves the ReactJS challenge in level 1 of the GoStack 12th edition by [Rocketseat](https://rocketseat.com.br/), a major software development bootcamp in Brazil.
 
 ## Requirements
 
